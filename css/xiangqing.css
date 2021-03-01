@@ -1,0 +1,267 @@
+.nav2 ul li{
+	float: left;
+	padding: 0 7px;
+	color: #666;
+	font-size: 12px;
+	font-weight: bold;
+}
+.nav2 ul li a{
+	color: #666;
+	font-weight: 100;
+}
+.nav2{
+	border-bottom: 2px solid #ccc;
+	padding: 11px 18px 9px;
+}
+.fdj{
+	position: relative;
+	height: 1300px;
+	margin-top: 40px;
+}
+.con-r{
+	width: 430px;
+	
+	position: absolute;
+	top: 0px;
+	left: 57%;
+}
+.box{
+	width: 544px;
+	height: 732px;
+	/* position: absolute;
+	top: 10px;left: 20px; */
+	margin-left: 8%;
+}
+.box img{
+	width: 100%;
+	height: 100%;
+}
+.box .mark{
+	width: 272px;
+	height: 366px;
+	background: rgba(0,0,0,.4);
+	position: absolute;
+	left: 110px;top: 0px;
+	display: none;
+}
+.boxRight{
+	width: 544px;
+	height: 732px;
+	overflow: hidden;
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	z-index: 2;
+	display: none;
+}
+.boxRight img{
+	position: absolute;
+	width: 1088px;
+	height: 1464px;
+}
+.div3{
+	width: 390px;
+	height: 122px;
+	/* margin-top: 430px; */
+	margin-left: 16%;
+	margin-top: 10px;
+}
+.div3 img{
+	width: 91px;
+	height: 122px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.bgc{
+	border: 2px solid gold;
+}
+.t1{
+	font-size: 12px;
+	line-height: 1;
+	color: #000;
+	letter-spacing: 1.8px;
+	margin-top: 8px;
+}
+.t2{
+	font-size: 24px;
+	color: #000;
+	letter-spacing: 1px;
+	line-height: 26px;
+	margin-top: 10px;
+}
+.t3{
+	font-size: 12px;
+	line-height: 1;
+	color: #707070;
+	letter-spacing: 1px;
+	margin-top: 16px;
+}
+.price2{
+	margin-top: 12px;
+	font-size: 18px;
+}
+.color3{
+	margin-top: 25px;
+	font-size: 12px;
+	color: #000;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+.color3 a{
+	font-weight: normal;
+}
+.color3 a:hover{
+	color: #555;
+}
+.size p{
+	line-height: 1.2;
+	margin-bottom: 13px;
+	font-size: 12px;
+	color: #000;
+	letter-spacing: 1px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.size span{
+	display: block;
+	color: #fff;
+	background: #000;
+	border: 1px solid #000;
+	width: 44px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	margin: 0 10px 10px 0;
+	cursor: pointer;
+}
+.num p{
+	font-size: 12px;
+	color: #000;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+.num select{
+	width: 75px;
+	height: 32px;
+	line-height: 32px;
+	color: #999;
+	background-color: #fff;
+	border: solid 1px #ccc;
+}
+.btn{
+	margin-top: 20px;
+}
+.btn a:nth-child(1){
+	display: inline-block;
+	color: #fff;
+	background: #333;
+	font-size: 12px;
+	letter-spacing: 1px;
+	height: 40px;
+	line-height: 40px;
+	width: 200px;
+	margin-right: 8px;
+	text-align: center;
+}
+.btn a:nth-child(2){
+	display: inline-block;
+	background: white;
+	color: black;
+	font-size: 12px;
+	letter-spacing: 1px;
+	height: 40px;
+	line-height: 40px;
+	width: 200px;
+	    border: 1px solid black;
+	text-align: center;
+}
+.btn a:nth-child(2):hover{
+	background: black;
+	color: white;
+}
+.t4{
+	margin-top: 15px;
+}
+.t4 a{
+	color: #000000;
+	font-size: 12px;
+}
+.t4 a:hover {
+    color: #555;
+}
+.t5{
+	margin: 26px 0 13px;
+}
+.t5 ul li{
+	float: left;
+	margin-right: 25px;
+}
+.t5 ul li a{
+	font-size: 12px;
+	color: #000000;
+}
+.t5 ul li:nth-child(1) a i{
+	background: url(../images/icon.png) no-repeat;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background-position: -274px -71px;
+	margin-top: -3px;
+}
+.t5 ul li:nth-child(2) a i{
+	background: url(../images/icon.png) no-repeat;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background-position: -274px -365px;
+	margin-top: -3px;
+}
+.t5 ul li:nth-child(3){
+	margin-left: 90px;
+}
+.t5 ul li:nth-child(3) a{
+	background: url(../images/icon.png) no-repeat;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -293px;
+	margin-top: -3px;
+}
+.t5 ul li:nth-child(4) a{
+	background: url(../images/icon.png) no-repeat;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background-position: -76px -295px;
+	margin-top: -3px;
+}
+.shop-style,.shop-s,.shop-b,.shop-p{
+	    font-size: 12px;
+	    padding: 0;
+	    border-top: 1px solid #d6d6d6;
+		margin-bottom: 20px;
+}
+.pro-title{
+	font-size: 12px;
+	    color: #000;
+	    padding: 12px 0;
+	    letter-spacing: 1px;
+	    font-weight: bold;
+	    cursor: pointer;
+}
+.shop-style p,.shop-s p,.shop-b p,.shop-p p{
+	font-size: 12px;
+	    color: black;
+	    line-height: 24px;
+	    padding: 10px 0;
+}
+.shop-p{
+	padding-bottom: 20px;
+	border-bottom: 1px solid #d6d6d6;
+}
+.btn a{
+	cursor: pointer;
+}
+.btn a:hover{
+	background-color: #262626;
+}

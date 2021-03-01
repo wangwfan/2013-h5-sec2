@@ -1,0 +1,251 @@
+ *{
+	 font-family: "微软雅黑";
+	 
+ }
+ a:hover{
+	 text-decoration: none;
+ }
+ .pagination{
+            width: 100%;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+.h5,ol{
+    display: inline-block;
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+*{
+	-webkit-box-sizing: content-box;
+}
+.index1{
+	padding: 10px 20px 10px;
+	margin-top: 15px;
+	
+}
+.index1 a{
+	font-size: 12px;
+	color: #000;
+}
+.container-left{
+	width: 20%;
+	float: left;
+	padding-left: 20px;
+	
+}
+.row{
+	width: 80%;
+	float: left;
+}
+body .container {
+    width: 1440px;
+}
+.container-left h3{
+	font-size: 16px;
+	font-weight: 500;
+	padding: 17px 0px 8px;
+}
+.container-left ul li{
+	 padding: 8px 0px 7px;
+ }
+.container-left ul li a{
+ 	line-height: 14px;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.container-left ul li a:hover{
+	border-bottom: 1px solid #000;
+	text-decoration: none;
+	color: #000000;
+}
+.container-left .c-l-d h3{
+	margin-top: 20px;
+}
+.container-left .c-l-d ul{
+	
+	    padding: 8px 5px 7px;
+}
+.container-left .c-l-d ul li a{
+	font-weight: normal;
+}
+.col-lg-3 {
+    width: 22%;
+}
+.container-right p{
+	font-size: 16px;
+	color: #000;
+	letter-spacing: 1px;
+	margin-bottom: 3px;
+}
+.qh,.px{
+	float: left;
+	margin-bottom: 10px;
+}
+.mor{
+	display: inline-block;
+	font-weight: bold;
+}
+.mor select{
+	border: 0;
+}
+.qh{
+	font-size: 12px;
+}
+
+.qh a,.px{
+	display: inline-block;
+	font-size: 12px;
+	line-height: 35px;
+	letter-spacing: 1px;
+	margin-left: 5px;
+}
+.h{
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #d7d7d7;
+}
+.c-rr{
+	font-size: 12px;
+	float: right;
+	margin-right: 35px;
+}
+.c-rr span{
+	display: inline-block;
+	padding-left: 20px;
+}
+body .thumbnail{
+	border: 0;
+}
+.container-left .sx dl dd{
+	border-top: 2px solid #ccc;
+	margin-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+.container-left .sx dl dd:last-child{
+	border-bottom: 2px solid #ccc;
+}
+.container-left .sx dl dd>span{
+	display: inline-block;
+	margin-left: 214px;
+	cursor: pointer;
+}
+.container-left .sx .cc ul li{
+	float: left;
+	margin-right: 7px;
+}
+.container-left .sx .cc ul li a{
+	display: inline-block;
+	line-height: 42px;
+	min-width: 35px;
+	text-align: center;
+	padding: 0 9px;
+	border: 1px solid #000;
+}
+.container-left .sx .cc{
+	/* display: none; */
+	height: 0;
+	overflow: hidden;
+}
+
+.d1,.d2,.d3{
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	background: url(../images/icon.png) no-repeat;
+	background-position: -71px -939px;
+}
+.color1,.price1{
+	height: 0;
+	overflow: hidden;
+}
+.color1 ul{
+	margin-top: 10px;
+}
+.color1 ul li{
+	float: left;
+	margin-right: 10px;
+}
+.color1 ul li a{
+	display: block;
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+	padding:6px;
+	box-sizing: border-box;
+	text-align: center;
+}
+.color1 ul li a i{
+	display: block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.color1 ul li a:hover{
+	border: 1px solid #ccc;
+}
+.color1 ul li span{
+	display: none;
+}
+.color1 ul li:nth-child(1) a i{
+	background-color: red;
+}
+.color1 ul li:nth-child(2) a i{
+	background-color: pink;
+}
+.color1 ul li:nth-child(3) a i{
+	background-color: #ffefd5;
+}
+.color1 ul li:nth-child(4) a i{
+	background-color: #f8f60b;
+}
+.color1 ul li:nth-child(5) a i{
+	background-color: #060000;
+}
+.color1 ul li:nth-child(6) a i{
+	background-color: #8a8a8a;
+}
+.color1 ul li:nth-child(7) a i{
+	background-color: #804000;
+}
+.color1 ul li:nth-child(8) a i{
+	background-color: #dbb981;
+}
+.color1 ul li:nth-child(9) a i{
+	background-color: #c1c1c1;
+}
+.color1 ul li:nth-child(10) a i{
+	background-color: #8a008b;
+}
+.color1 ul li:nth-child(11) a i{
+	background-color: #87cefa;
+}
+.color1 ul li:nth-child(12) a i{
+	background-color: #f3f3f3;
+}
+.color1 ul li:nth-child(13) a i{
+	background-color: #448b00;
+}
+.color1 ul li:nth-child(14) a i{
+	background-color: #dca83a;
+}
+.color1 ul li:nth-child(15) a i{
+	background-color: #f4b328;
+}
+.price1 input{
+	margin-right: 10px;
+}
+.col-lg-6{
+	width: 47%;
+}
+.padding-l{
+	padding-left: 40px;
+}

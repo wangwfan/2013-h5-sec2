@@ -1,0 +1,137 @@
+.head-t{
+	max-width: 1230px;
+	margin: 0 auto;
+	padding: 15px 0 20px;
+	border-bottom: 2px solid #979797;
+	width: 100%;
+	
+}
+.h-l{
+	width: 39%;
+}
+.h-l a{
+	margin-right: -130px;
+	font-size: 14px;
+	color: #8e7444;
+	font-weight: bold;
+	display: inline-block;
+	line-height: 70px;
+	text-align: center;
+}
+.head-t h1{
+	margin-right: 16%;
+	
+}
+.head-t h1,.h-l{
+	float: left;
+}
+.head-t h1 img{
+	width: 260px;
+	height: 26px;
+}
+.h-r-l,.h-r-r{
+	float: left;
+	margin-left: 36px;
+}
+.h-r-l i,.h-r-r i{
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+}
+.h-r-l a,.h-r-r a{
+	color: #000;
+	line-height: 70px;
+}
+.f-left-top a{
+	color: #000;
+}
+.h-r-l i{
+	background: url(../images/icon.png) no-repeat;
+	background-position: 0 -230px;
+}
+.h-r-r i{
+	background: url(../images/icon.png) no-repeat;
+	background-position: -76px -230px;
+}
+.body{
+	padding: 2px 16px 0;
+    max-width: 1263px;
+	margin: auto;
+}
+.body-h h3{
+	    font-size: 20px;
+	    color: #000;
+	    line-height: 38px;
+	    border-bottom: 2px #979797 solid;
+	    margin-bottom: 18px;
+	    font-weight: bold;
+		margin-top: 0;
+}
+.body-l{
+	padding: 60px 77px;
+	width: 34.33%;
+	float: left;
+	
+}
+.body-l p{
+	    text-align: center;
+	    margin-bottom: 60px;
+	    font-size: 18px;
+}
+.body-l button{
+	font-size: 12px;
+	letter-spacing: 1px;
+	background-color: #333;
+	color: #fff;
+	line-height: 40px;
+	height: 40px;
+	outline: 0;
+	border: 0;
+	width: 100%;
+}
+.body-r{
+	float: left;
+	width: 65%;
+	padding-left: 30px;
+	border-left: 1px solid #ccc;
+	margin-bottom: 100px;
+}
+.body-r p{
+	font-size: 14px;
+	color: #000;
+}
+.thumbnail img{
+	width: 243px;
+	height: 327px;
+}
+.caption p{
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 13px;
+	font-family: "微软雅黑";
+}
+.caption h5{
+	font-family: "微软雅黑";
+	font-size: 12px;
+	line-height: 16px;
+	color: #000000;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.row .thumbnail{
+	border: 0;
+}
+.f-left-f a{
+	color: #000000;
+}
+body h1 h2 h3{
+	margin: 0;
+	line-height: 0;
+}
+.media-body{
+	width: 30%;
+	
+}
+.media .media-left{
+	padding-right: 29px;
+}

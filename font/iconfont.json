@@ -1,0 +1,100 @@
+{
+  "id": "2344993",
+  "name": "mk",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10477885",
+      "name": "减号",
+      "font_class": "jianhao",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "611344",
+      "name": "用户名",
+      "font_class": "icon",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "780622",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2270447",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "5396075",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8193880",
+      "name": "MK_画板 1",
+      "font_class": "MK_huaban",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8875695",
+      "name": "联系客服",
+      "font_class": "lianxikefu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8995205",
+      "name": "加号",
+      "font_class": "iconjia",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10030573",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10379534",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12201965",
+      "name": "icon-toxx_购物袋",
+      "font_class": "icon-toxx_gouwudai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "18003407",
+      "name": "关 闭",
+      "font_class": "guanbi",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "19146277",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
